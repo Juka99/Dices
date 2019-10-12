@@ -1,0 +1,2 @@
+# Dices
+Plain JavaScript game
